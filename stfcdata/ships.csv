@@ -1,0 +1,76 @@
+ship_id,ship_name,nax_level,crew_max_level
+1,Amalgam,45,45
+2,Augur,45,45
+3,B'Chor,60,60
+4,Bortas,45,45
+5,Botany Bay,45,45
+6,B'rel,45,45
+7,Centurion,45,45
+8,Corvus,60,60
+9,D3 Class,45,45
+10,D4 Class,45,45
+11,D'Deridex,60,60
+12,D'Vor Feesha,60,60
+13,ECS Fortunate,20,20
+14,ECS Horizon,45,45
+15,Envoy,35,35
+16,Ferengi D'Vor,45,45
+17,Gladius,45,45
+18,Hegh'ta,60,60
+19,Hijacked D3,45,45
+20,Hijacked Legionary,45,45
+21,Hijacked USS Mayflower,45,45
+22,ISS Jellyfish,60,60
+23,Jellyfish,35,35
+24,Kehra,45,45
+25,Korinar,60,60
+26,K'Tinga,60,60
+27,Kumari,45,45
+28,K'Vort,45,45
+29,Legionary,45,45
+30,Mantis,60,60
+31,Meridian,45,45
+32,Mow'Ga,60,60
+33,North Star,45,45
+34,Nova,45,45
+35,Orion Corvette,20,20
+36,Phindra,35,35
+37,Pilum,60,60
+38,Quv'Sompek,60,60
+39,Realta,20,20
+40,Rotarran,60,60
+41,Sanctus,60,60
+42,Sarcophagus,60,60
+43,Separatist D3 Class,45,45
+44,Stella,45,45
+45,Talla,35,35
+46,Tribune,60,60
+47,Turas,35,35
+48,USS Antares,45,45
+49,USS Beatty,60,60
+50,USS Cerritos,60,60
+51,USS Crozier,60,60
+52,USS Defiant,60,60
+53,USS Discovery,45,45
+54,USS Enterprise,45,45
+55,USS Enterprise A,60,60
+56,USS Enterprise D,60,60
+57,USS Franklin,45,45
+58,USS Franklin A,60,60
+59,USS Hydra,60,60
+60,USS Intrepid,45,45
+61,USS Kelvin,60,60
+62,USS Mayflower,45,45
+63,USS Newton,60,60
+64,USS Northcutt,60,60
+65,USS Saladin,45,45
+66,USS Titan-A,60,60
+67,USS Voyager,60,60
+68,Vahklas,45,45
+69,Valdore,60,60
+70,Valkis,45,45
+71,Vi'Dar,45,45
+72,Vi'Dar Talios,60,60
+73,Vor'Cha,60,60
+74,Vorta Vor,60,60
+75,Vrax,60,60

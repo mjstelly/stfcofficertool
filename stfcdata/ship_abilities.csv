@@ -1,0 +1,76 @@
+ability_id,ship_id_fk,ability_description
+1,1,"This ability only activates if the Amalgam has available empty Cargo Space before attacking. After winning a battle, if the target has more resources than the Amalgam's available Cargo Space, the Amalgam fills its Cargo Space and then takes an additional amount of the remaining resources"
+2,2,"As long as the opponent's ship is Burning, if the opponent is hit with the Obliterator weapon, the AUGUR increases all weapon damage (Cumulative)"
+3,3,The Mining Rate of Crystal is increased
+4,4,"When defending the Station, The BORTAS increases the damage of all the other ships and Defense Platforms"
+5,5,"The Botany Bay's Mining Bonus from the Mining Laser, when mining Corrupted Data and Decoded Data, is increased"
+6,6,"When fighting Hostiles, for the first round of Combat, the B'REL decreases the opponent's ship Armor Piercing, Shield Piercing and Accuracy"
+7,7,"When defending , The CENTURION increases the Armor, Shield deflection and Dodge of all ships and defense platforms"
+8,8,"Each time the Corvus is hit, it increases the Armor Piercing, Shield Piercing, and Accuracy (Cumulative)"
+9,9,"The D3 CLASS's weapon damage is increased, against Romulan ships,"
+10,10,"As long as the opponent has a Hull Breach, The D4 Increases its Weapon Damage, every round (cumulative)"
+11,11,"As long as the opponent is Burning, the D'deridex increases the number of shots of each weapon (cumulative)"
+12,12,"Mining bonus for Concentrated Latinum ,35000%,35350.00%,35704%,36061.00%,37864%,38242%,38625%,39011%,39401%,41371%,41785%,42203%,42625%,43051%,45203%,45655%,46112%,46573%,47039%,49391%,69147%,69839%,70537%,71242%,74804%,75552%,76308%,77071%,77842%,81734%,82551%,83377%,84210%,85053%,89305%,90198%,91100%,92011%,92931%,97578%,98554%,99539%,100535%,101540%,106617%,149264%,150756%,152264%,153787%,161476%,163091%,164722%,166369%,168033%,176434%,178199%,179981%,181780%,183598%,202000%,"
+13,13,The Mining Rate of Parsteel is increased
+14,14,The Mining Rate of Dilithium is increased
+15,15,The Mining Rate of Tritanium is increased
+16,16,"The D'Vor's Mining Bonus from the Mining Laser, when mining Raw Latinum, is increased"
+17,17,"When fighting Hostiles, the GLADIUS increases damage"
+18,18,"As long as the opponent has a Hull Breach, every time the Hegh'ta hits it with a weapon attack, it increases the Critical Hit Chances"
+19,19,"The D3 CLASS's weapon damage is increased, against Romulan ships,"
+20,20,"The LEGIONARY's weapon damage is increased, against Federation ships,"
+21,21,The USS MAYFLOWER's weapon damage is increased against Klingon ships
+22,22,The ISS Jellyfish gains additional damage bonus at the start of every combat round (This bonus stacks with no limit)
+23,23,The JELLYFISH increases the effectiveness of its Captain Maneuver
+24,24,"If the opponent's ship is a Battleship, the KEHRA increases its Armor Piercing"
+25,25,The Korinar gains more resources from Hostiles
+26,26,"When defending,at the start of each round, the K'T'inga increases the Damage of all Ships and Defense Platforms"
+27,27,"If the opponent's ship is an Explorer, the KUMARI increases its Shield Piercing"
+28,28,The Mining Rate of Crystal is increased
+29,29,"The LEGIONARY's weapon damage is increased, against Federation ships,"
+30,30,The Mantis Damage is increased against Actian hostiles
+31,31,"The Meridian's Mining Bonus from the Mining Laser is increased, when mining Isogen,"
+32,32,The Mining Rate of Crystal is increased
+33,33,"The mining rate of 3★ Gas, Ore and Crystal is increased"
+34,34,"When mining 5* Crystal, Gas and Ore, The Nova's mining speed is increased"
+35,35,The Maximum Hull Health of the ORION CORVETTE is increased
+36,36,"If the opponent's ship is a Battleship, the PHINDRA increases its Weapon Damage"
+37,37,The Pilum gains more resources from Hostiles
+38,38,"When fighting Hostiles, the Quv'Sompek decreases Hostile Armor Piercing, Shield Piercing, and Accuracy, for the first 5 rounds of combat,"
+39,39,The Maximum Shield Health of the REALTA is increased
+40,40,"As long as the opponent has a Hull Breach, every time the Rotarran deals a Critical Hit with a weapon attack, it increases the Critical Hit Damage (cumulative)"
+41,41,"When fighting Hostiles, at the beginning of each round for the first 5 rounds of combat, the Sanctus decreases Hostile Shield Health"
+42,42,"When attacking or defending on a capture or mining node in an active Takeover, the Sarcophagus' Weapon Damage is increased"
+43,43,"The D3 CLASS's weapon damage is increased, against Romulan ships,"
+44,44,The STELLA increases the reward you get from Eclipse hostiles and Armada Targets
+45,45,"If the opponent's ship is an Explorer, the TALLA increases its Weapon Damage"
+46,46,"As long as the opponent is Burning at the start of a round, the Tribune increases the number of shots of each weapon,  for this round,"
+47,47,"If the opponent's ship is an Interceptor, the TURAS increases its Weapon Damage"
+48,48,The Mining Rate of Gas is increased
+49,49,The Mining Rate of Gas is increased
+50,50,"When the USS Cerritos supports another ship, increase the support duration"
+51,51,"When fighting Hostiles, for the first 5 rounds of combat, the USS Crozier decreases Hostile Critical Hit Damage"
+52,52,"Reinforce Ships: Greatly reinforces other ships vs Armadas based on their Defiant research. Defiant Weaponry: Unlock powerful buffs which grant significantly enhanced effectiveness vs Jem'Hadar Solo Armadas when in combat with the Defiant. Bajoran Currency: Increases Bajoran Badges and Credits received from the """"Defiant Amplified Claim"""". Resourceful Approach: Increase Edict rewards when using the Defiant"
+53,53,The USS Discovery's Mycelium harvesting speed is increased
+54,54,"As long as the ship has Morale, the USS ENTERPRISE heals the Shield Health, whenever it gets hit,"
+55,55,"As long as the USS Enterprise A has Morale , everytime it gets hit, it increases the Weapon Damage"
+56,56,"As long as the ship has Morale, the USS Enterprise-D increases the Weapon Damage, each round (cumulative),"
+57,57,"When fighting Swarm ships, The Franklin's Damage is increased"
+58,58,"When fighting Swarm Hostiles or Swarm Armadas, The Franklin-A's Damage is increased"
+59,59,The Mining Rate of Gas is increased
+60,60,"When fighting Hostiles, The USS INTREPID increases its Armor, Shield Deflection and Dodge"
+61,61,"When defending, at the start of each round, the USS Kelvin increases the Shield Piercing, Armor Piercing and Accuracy of every Ship and Defense Platform"
+62,62,The USS MAYFLOWER's weapon damage is increased against Klingon ships
+63,63,The USS Newton increases resources gained from Hostiles
+64,64,"Each time the USS Northcutt is hit, it increases the Weapon Damage (cumulative)"
+65,65,"When the Station or the USS SALADIN gets attacked, it increases the Shield Health of all the ships and Defense Platforms"
+66,66,"When Fortification or Maximum Fortification is activated, prioritised"
+67,67,The USS Voyager increases its base damage against hostiles with the Delta Quadrant [DQ] tag
+68,68,"If the opponent's ship is an Interceptor, the VAHKLAS increases its Accuracy"
+69,69,"When defending, at the start of each round, the Valdore increases the Shield Deflection, Armor and Dodge of all ships and Defense platforms"
+70,70,The Mining Rate of Ore is increased
+71,71,"The Vi'dar's Damage in increased, against Borg hostiles,"
+72,72,"Increase Damage against Borg hostiles,"
+73,73,"Each time the Vor'Cha is hit, it increases the Critical Hit Damage (cumulative)"
+74,74,The Mining Rate of Ore is increased
+75,75,The Mining Rate of Ore is increased
