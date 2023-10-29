@@ -2586,6 +2586,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-native-firebase/firestore@npm:^18.5.0":
+  version: 18.5.0
+  resolution: "@react-native-firebase/firestore@npm:18.5.0"
+  peerDependencies:
+    "@react-native-firebase/app": 18.5.0
+  checksum: 5de39d5aecae58553e571f0779704d6258d823236acb2f49ebcf466c463f73f949b654f23ba0ac622f71b5f79ac015947f319e6d0b5e36be20000093e2176d6f
+  languageName: node
+  linkType: hard
+
 "@react-native/assets-registry@npm:^0.72.0":
   version: 0.72.0
   resolution: "@react-native/assets-registry@npm:0.72.0"
@@ -11804,6 +11813,7 @@ __metadata:
     "@babel/runtime": ^7.20.0
     "@google-cloud/firestore": ^7.1.0
     "@react-native-firebase/app": ^18.5.0
+    "@react-native-firebase/firestore": ^18.5.0
     "@react-native/eslint-config": ^0.72.2
     "@react-native/metro-config": ^0.72.11
     "@tsconfig/react-native": ^3.0.0
